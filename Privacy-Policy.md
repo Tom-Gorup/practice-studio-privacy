@@ -1,6 +1,6 @@
 # Practice Studio Privacy Policy
 
-Draft — contact address and public URL pending.
+Draft — public URL pending.
 
 Effective October 5, 2026
 
@@ -16,6 +16,6 @@ The app does not require an account, display ads, or include analytics. It does 
 
 ## Contact
 
-For support or privacy questions, contact Practice Studio at the dedicated email address listed on its support page. [Add the approved address before publication.]
+For privacy questions, email privacy@cybrpulse.com. For app support, email support@cybrpulse.com.
 
 This policy describes version 1.0 of Practice Studio. Update it if the app's data practices change.
