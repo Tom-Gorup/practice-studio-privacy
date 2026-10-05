@@ -1,7 +1,5 @@
 # Practice Studio Privacy Policy
 
-Draft — public URL pending.
-
 Effective October 5, 2026
 
 Practice Studio is an iPhone app from CHAPPIE LLC for tuning instruments, keeping time, playing reference tones, and viewing live sound analysis.
