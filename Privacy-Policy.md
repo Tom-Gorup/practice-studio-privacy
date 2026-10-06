@@ -2,7 +2,7 @@
 
 Effective October 5, 2026
 
-Practice Studio is an iPhone app from CHAPPIE LLC for tuning instruments, keeping time, playing reference tones, and viewing live sound analysis.
+Practice Studio is an iPhone app for tuning instruments, keeping time, playing reference tones, and viewing live sound analysis.
 
 ## Microphone
 
@@ -10,7 +10,7 @@ The app requests microphone access when you start the tuner or live analysis. Mi
 
 ## Data and network use
 
-The app does not require an account, display ads, or include analytics. It does not send personal information or audio to CHAPPIE LLC or third parties. Practice settings and metronome presets are saved locally on your device.
+The app does not require an account, display ads, or include analytics. It does not send personal information or audio off your device. Practice settings and metronome presets are saved locally on your device.
 
 ## Contact
 
